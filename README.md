@@ -32,7 +32,7 @@ It’s the application their employees use to do all the business from collectin
 
 ## Others
 ### Music app
-My first Android application is an online music app. I created it when I started studying Android development at the end of 2015. It took me only 2 weeks to complete the application but it got 1.5 million downloads, I was lucky. It’s not in the store anymore, but you can have a look at it at [link](https://nhc-san-nonstop-tng-hp.en.uptodown.com/android):
+My first Android application is an online music app. I created it when I started studying Android development at the end of 2015. It took me only 2 weeks to complete the application but it got 1.5 million downloads, I was lucky. It’s not in the store anymore, but you can have a look at it at [link](https://nhc-san-nonstop-tng-hp.en.uptodown.com/android)
 
 ### [Perfect Camera](https://apps.microsoft.com/detail/9NBLGGH5C1ML?hl=en-US&gl=US)
 This is my first mobile application, a WindowPhone app, not Android. I created it after graduating from University in 2015, before starting to learn Android. It’s a photo editing app.
