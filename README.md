@@ -24,7 +24,7 @@ An Android application that is built specifically for Ukraine. The project start
 [A news about why we have this application](https://www.president.gov.ua/en/news/volodimir-zelenskij-domovivsya-z-ministrom-zakordonnih-sprav-85537)
 
 - Role: Android developer.
-- Tech: Android (Kotlin), Compose, Coroutines, Flow, Hilt, Retrofit, Room, OAuth, Paging3.
+- Tech: Android (Kotlin), Compose, Coroutines, Flow, Hilt, Retrofit, Room, OAuth, Paging3, full offline support.
 
 ### Smart Form Builder
 
