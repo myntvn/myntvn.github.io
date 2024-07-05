@@ -11,7 +11,7 @@ Most of the time working on this project, the main product of the company.
 - Role: Android developer.
 - Tech: Android (Kotlin), Compose, Dagger, Coroutines, Flow, Room, Retrofit, Paging3, Twilio, Unit Test, OAuth multi modules.
 
-From what I learned when migrating the app architecture of this project, I wrote a blog for DeNA Engineering: https://engineering.dena.com/blog/2023/06/clean-architecture-for-android-app-reasoning-process/
+From what I learned when migrating the app architecture of this project, I wrote a [blog for DeNA Engineering](https://engineering.dena.com/blog/2023/06/clean-architecture-for-android-app-reasoning-process/).
 
 From May 2024, I also joined the backend team to develop the API for the app using Spring Boot (Kotlin).
 
