@@ -7,13 +7,31 @@ Developed applications:
 
 [A news about Join](https://ps.asia.nikkei.com/braziljapan3/)
 
-Most of the time working on this project, it's the main product of the company.
+Most of the time working on this project, the main product of the company.
 - Role: Android developer.
-- Tech: Android (Kotlin), Compose, Dagger, Coroutines, Flow, Room, Retrofit, Paging3, Twilio, Unit Test, multi modules.
+- Tech: Android (Kotlin), Compose, Dagger, Coroutines, Flow, Room, Retrofit, Paging3, Twilio, Unit Test, OAuth multi modules.
+
+From May 2024, I also joined the backend team to develop the API for the app using Spring Boot (Kotlin).
 
 ### [JoinTriage](https://play.google.com/store/apps/details?id=net.allm.fasted)
 - Role: Android developer.
 - Tech: Android (Kotlin), Compose, Material 3, GraphQL, Retrofit.
+
+### Join XXX (secret)
+
+An Android application that is built specifically for Ukraine. The project started in November 2023 as a PoC, and now it has been confirmed as a product of the company. We build on the smartphone and package it with other external medical devices and send them to Ukraine, the application is not published on the Google Play store.
+
+[A news about why we have this application](https://www.president.gov.ua/en/news/volodimir-zelenskij-domovivsya-z-ministrom-zakordonnih-sprav-85537)
+
+- Role: Android developer.
+- Tech: Android (Kotlin), Compose, Coroutines, Flow, Hilt, Retrofit, Room, OAuth, Paging3.
+
+### Smart Form Builder
+
+A web app started from May 2023 that is used internally in the company to build the questionnaires used in other projects, for example, JoinTriage.
+
+- Role: frontend developer.
+- Tech: VueJS, TypeScript, Quasar framework, Cypress, [FHIR](https://hl7.org/fhir/).
 
 ## Pax Creation (2020 ~ 2021)
 ### [idraft by goo](https://play.google.com/store/apps/details?id=jp.ne.goo.dictapp.pro)
