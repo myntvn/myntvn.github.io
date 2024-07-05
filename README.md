@@ -1,5 +1,3 @@
-# Nguyen Thien My
-
 Developed applications:
 
 # Allm (2021 ~ present)
