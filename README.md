@@ -30,7 +30,7 @@ An Android application that is built specifically for Ukraine. The project start
 
 A web app started from May 2023 that is used internally in the company to build the questionnaires used in other projects, for example, JoinTriage.
 
-- Role: frontend developer.
+- Role: junior frontend developer.
 - Tech: VueJS, TypeScript, Quasar framework, Cypress, [FHIR](https://hl7.org/fhir/).
 
 # Pax Creation (2020 ~ 2021)
