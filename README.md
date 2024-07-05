@@ -17,7 +17,7 @@ From May 2024, I also joined the backend team to develop the API for the app usi
 - Role: Android developer.
 - Tech: Android (Kotlin), Compose, Material 3, GraphQL, Retrofit.
 
-### Join XXX (secret)
+### Join ... (secret)
 
 An Android application that is built specifically for Ukraine. The project started in November 2023 as a PoC, and now it has been confirmed as a product of the company. We build on the smartphone and package it with other external medical devices and send them to Ukraine, the application is not published on the Google Play store.
 
@@ -49,6 +49,11 @@ It’s the application their employees use to do all the business from collectin
 - Tech: Android (Java), custom frameworks developed internally by other vendors.
 
 ## Others
+
+### [Puzzle Game](https://play.google.com/store/apps/details?id=com.zenbi.game.puzzle.treasure)
+
+From the beginning of this year, to practice TypeScript more, I started developing this game using Cocos Creator and released to the Google Play store. I studied Cocos Creator instead of Unity, which is perhap the most common framework for game development now, because I want to be more proficient in Typescript.
+
 ### Music app
 My first Android application is an online music app. I created it when I started studying Android development at the end of 2015. It took me only 2 weeks to complete the application but it got 1.5 million downloads, I was lucky. It’s not in the store anymore, but you can have a look at it at [link](https://nhc-san-nonstop-tng-hp.en.uptodown.com/android)
 
