@@ -2,7 +2,7 @@
 
 Developed applications:
 
-## Allm (2021 ~ present)
+# Allm (2021 ~ present)
 ### [Join](https://play.google.com/store/apps/details?id=jp.co.skillupjapan.join)
 
 [A news about Join](https://ps.asia.nikkei.com/braziljapan3/)
@@ -35,7 +35,7 @@ A web app started from May 2023 that is used internally in the company to build 
 - Role: frontend developer.
 - Tech: VueJS, TypeScript, Quasar framework, Cypress, [FHIR](https://hl7.org/fhir/).
 
-## Pax Creation (2020 ~ 2021)
+# Pax Creation (2020 ~ 2021)
 ### [idraft by goo](https://play.google.com/store/apps/details?id=jp.ne.goo.dictapp.pro)
 - Role: Android developer, team leader.
 - Tech: Android (Kotlin), LiveData, Data Binding, Retrofit, Firebase (FCM, Messaging, Firestore, Event)
@@ -45,12 +45,14 @@ This application was created in 2014 by Java and was rewritten by Kotlin from sc
 - Role: Android developer, team leader.
 - Tech: Android (Kotlin), LiveData, Data Binding, Hilt, Retrofit.
 
-### Yamato Transport (Kuroneko) (2017 ~ 2020)
+# Yamato Transport (Kuroneko) (2017 ~ 2020)
+
+### PP8
 It’s the application their employees use to do all the business from collecting to delivering the package. It’s used for Yamato only and not published in the store.
 - Role: Android developer.
 - Tech: Android (Java), custom frameworks developed internally by other vendors.
 
-## Others
+# Others
 
 ### [Puzzle Game](https://play.google.com/store/apps/details?id=com.zenbi.game.puzzle.treasure)
 
